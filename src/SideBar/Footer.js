@@ -1,7 +1,7 @@
 import React from 'react'
 import { MenuItem } from './MenuItem'
-import logo from '../icons/footer.svg'
-import helpIcon from '../icons/helpIcon.svg'
+import logo from '../icons/sidebarIcons/footer.svg'
+import helpIcon from '../icons/sidebarIcons/helpIcon.svg'
 
 export const Footer = () => {
     return (

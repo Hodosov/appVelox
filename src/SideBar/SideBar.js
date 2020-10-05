@@ -4,11 +4,11 @@ import { Logo } from './Logo'
 import { MenuItem } from './MenuItem'
 import { Footer } from './Footer'
 import { Button } from '../Button/Button'
-import profileIcon from '../icons/profileIcon.svg'
-import doctsICon from '../icons/doctsICon.svg'
-import messIcon from '../icons/messIcon.svg'
-import testIcon from '../icons/testIcon.svg'
-import infoIcon from '../icons/infoIcon.svg'
+import profileIcon from '../icons/sidebarIcons/profileIcon.svg'
+import doctsICon from '../icons/sidebarIcons/doctsICon.svg'
+import messIcon from '../icons/sidebarIcons/messIcon.svg'
+import testIcon from '../icons/sidebarIcons/testIcon.svg'
+import infoIcon from '../icons/sidebarIcons/infoIcon.svg'
 
 
 const data = [

@@ -1,5 +1,6 @@
 .header {
     display: flex;
+    justify-content: space-between;
     align-items: center;
     width: 100%;
     height: 55px;
@@ -14,4 +15,19 @@
     font-weight: normal;
     font-size: 28px;
     line-height: 33px;
+}
+
+.headerMenu {
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.userMenu {
+    display: flex;
+    align-items: center;
+}
+
+.headerIcon {
+    margin: 0 10px;
 }
